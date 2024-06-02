@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 16 May 2024 06:56:57 at https://decentralisedsync.vercel.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://decentralisedsync.vercel.app/ -O1 "C:\Users\krixxvalle\OneDrive\Desktop\clone website\bitcoin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:59:49	Error: 	"Not Found" (404) at link https://decentralisedsync.vercel.app/faq (from https://decentralisedsync.vercel.app/)
+06:59:49	Error: 	"Not Found" (404) at link https://decentralisedsync.vercel.app/terms (from https://decentralisedsync.vercel.app/)
+06:59:49	Error: 	"Not Found" (404) at link https://decentralisedsync.vercel.app/privacy (from https://decentralisedsync.vercel.app/)
+06:59:49	Error: 	"Not Found" (404) at link https://decentralisedsync.vercel.app/registry/wallets (from https://decentralisedsync.vercel.app/)
+06:59:49	Error: 	"Not Found" (404) at link https://decentralisedsync.vercel.app/registry/apps (from https://decentralisedsync.vercel.app/)
+06:59:49	Error: 	"Not Found" (404) at link https://decentralisedsync.vercel.app/registry/guidelines (from https://decentralisedsync.vercel.app/)
+06:59:49	Error: 	"Not Found" (404) at link https://coin-node.netlify.app/pumpeth.com/wp-content/uploads/2018/06/team_bg2.png (from https://decentralisedsync.vercel.app/dapp.css)
+06:59:49	Error: 	"Not Found" (404) at link https://registry.walletconnect.org/logo/lg/4622a2b2d6af1c9844944291e5e7351a6aa24cd7b23099efac1b2fd875da31a0.jpeg (from https://decentralisedsync.vercel.app/service.html)
+06:59:49	Error: 	"Not Found" (404) at link https://registry.walletconnect.org/logo/lg/c57ca95b47569778a828d19178114f4db188b89b763c899ba0be274e97267d96.jpeg (from https://decentralisedsync.vercel.app/service.html)
+06:59:49	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://user-images.githubusercontent.com/12424618/54043975-b6cdb800-4182-11e9-83bd-0cd2eb757c6e.png (from https://decentralisedsync.vercel.app/service.html)
+06:59:49	Error: 	"Not Found" (404) at link https://registry.walletconnect.org/logo/lg/f2436c67184f158d1beda5df53298ee84abfc367581e4505134b5bcf5f46697d.jpeg (from https://decentralisedsync.vercel.app/service.html)
+06:59:49	Error: 	"Not Found" (404) at link https://registry.walletconnect.org/logo/lg/20459438007b75f4f4acb98bf29aa3b800550309646d375da5fd4aac6c2a2c66.jpeg (from https://decentralisedsync.vercel.app/service.html)
+06:59:49	Error: 	"Not Found" (404) at link https://registry.walletconnect.org/logo/lg/7674bb4e353bf52886768a3ddc2a4562ce2f4191c80831291218ebd90f5f5e26.jpeg (from https://decentralisedsync.vercel.app/service.html)
+06:59:49	Error: 	"Not Found" (404) at link https://registry.walletconnect.org/logo/lg/138f51c8d00ac7b9ac9d8dc75344d096a7dfe370a568aa167eabc0a21830ed98.jpeg (from https://decentralisedsync.vercel.app/service.html)
+06:59:49	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.tokenary.io/icon.png (from https://decentralisedsync.vercel.app/service.html)
+06:59:49	Error: 	"Not Found" (404) at link https://registry.walletconnect.org/logo/lg/0b415a746fb9ee99cce155c2ceca0c6f6061b1dbca2d722b3ba16381d0562150.jpeg (from https://decentralisedsync.vercel.app/service.html)
+06:59:49	Error: 	"Not Found" (404) at link https://registry.walletconnect.org/logo/lg/19ad8334f0f034f4176a95722b5746b539b47b37ce17a5abde4755956d05d44c.jpeg (from https://decentralisedsync.vercel.app/service.html)
+06:59:49	Error: 	"Not Found" (404) at link https://registry.walletconnect.org/logo/lg/dd8ee41915d967e547c80266e883d77ee808427405f4e8026a85ac1308104221.jpeg (from https://decentralisedsync.vercel.app/service.html)
+07:00:35	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://user-images.githubusercontent.com/12424618/54043975-b6cdb800-4182-11e9-83bd-0cd2eb757c6e.png (from https://decentralisedsync.vercel.app/service.html)
+07:00:35	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.tokenary.io/icon.png (from https://decentralisedsync.vercel.app/service.html)
+07:01:09	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://user-images.githubusercontent.com/12424618/54043975-b6cdb800-4182-11e9-83bd-0cd2eb757c6e.png (from https://decentralisedsync.vercel.app/service.html)
+07:01:14	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://www.tokenary.io/icon.png (from https://decentralisedsync.vercel.app/service.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 17 seconds : 64 links scanned, 41 files written (2292166 bytes overall) [1756785 bytes received at 6835 bytes/sec], 954104 bytes transferred using HTTP compression in 20 files, ratio 37%, 1.3 requests per connection
+(18 errors, 4 warnings, 0 messages)
